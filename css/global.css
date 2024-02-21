@@ -5,7 +5,8 @@
 10% of #CDA68F - Accent
 */
 
-:root (
+:root {
+
     /* var(--dominantColor) !important; */
     --dominantColor: #b1724e;
 
@@ -15,8 +16,4 @@
     /* var(--accentColor) !important; */
     --accentColor: #CDA68F;
 
-
-
-
-
-)
+}
