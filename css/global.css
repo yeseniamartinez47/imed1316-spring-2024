@@ -1,0 +1,22 @@
+/*color*/
+/* 
+60% of #b1724e - Dominant
+30% of #C08E72 - Secondary
+10% of #CDA68F - Accent
+*/
+
+:root (
+    /* var(--dominantColor) !important; */
+    --dominantColor: #b1724e;
+
+    /* var(--secondaryColor) !important; */
+    --secondaryColor: #C08E72;
+
+    /* var(--accentColor) !important; */
+    --accentColor: #CDA68F;
+
+
+
+
+
+)
