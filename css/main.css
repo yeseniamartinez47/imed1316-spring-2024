@@ -64,3 +64,10 @@ h2 {
     text-decoration: none;
     text-transform: uppercase;
 }
+
+.fa-social-media,
+.fa-social-media a {
+    font-size: 25px !important;
+    padding-left: 12px;
+    padding-right: 12px;
+}
