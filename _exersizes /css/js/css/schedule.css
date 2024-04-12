@@ -2,7 +2,7 @@
 @import "main.css";
 
 .wrapper-body {
-    background-image: url("images/background-image.jpeg");
+    background-image: url("/images/background-image.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
