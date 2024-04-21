@@ -1,6 +1,6 @@
 // A $( document ).ready() block.
 $(document).ready(function () {
-    //console.log( "ready!" );
+    //console.log("ready!");
 
     $("#blinn-gallery").nanogallery2({
         thumbnailWidth: "300",
@@ -12,8 +12,8 @@ $(document).ready(function () {
             display: false
         },
         thumbnailHoverEffect2: "imageScaleIn80|imageSepiaOff|labelAppear75",
-        thumbnailGutterWidth: 0,
-        thumbnailGutterHeight: 0,
+        thumbnailGutterWidth: 20,
+        thumbnailGutterHeight: 20,
         thumbnailAlignment: "center",
         thumbnailOpenImage: true
     });
