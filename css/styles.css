@@ -109,3 +109,8 @@
 .card a {
     color: #020230;
 }
+
+.card-share-icons {
+    position: absolute;
+    bottom: 9px;
+}
