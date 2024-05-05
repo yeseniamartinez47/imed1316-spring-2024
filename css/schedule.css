@@ -10,7 +10,7 @@
 
 .wrapper-main {
     width: 100%;
-    max-width: 100px;
+    max-width: 1000px;
     margin: auto;
     background-color: #ffffff;
     padding: 25px;
@@ -20,5 +20,5 @@
 .wrapper-content {
     margin: auto;
     width: 100%;
-    max-width: 100px;
+    max-width: 1000px;
 }
