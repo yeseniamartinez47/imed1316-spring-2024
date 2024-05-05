@@ -23,7 +23,7 @@
 }
 
 .fa-row a {
-    color: #ffffff;
+    color: #ffffff !important;
     font-weight: bold;
     text-transform: uppercase;
     text-decoration: none;
